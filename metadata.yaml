@@ -1,11 +1,16 @@
 _repo: A-szellemi-erok-gyujtese-es-pazarlasa_66826
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Szitnyai, Elek
     gutenberg_agent_id: '53980'
     url: http://www.gutenberg.org/2009/agents/53980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66826#A-szellemi-erok-gyujtese-es-pazarlasa
 gutenberg_issued: '2021-11-26'
 identifiers:
   gutenberg: '66826'
